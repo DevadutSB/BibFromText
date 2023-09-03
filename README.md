@@ -1,10 +1,10 @@
-BibFromText 📚✨
+# BibFromText 📚✨
 Given a list of reference papers separated by new lines 📜, the program will automatically retrieve all Bibs 📖 and save them to a .bib file 💾
 
-How to Install 🚀
+## How to Install 🚀
 Install NodeJS 🌐
 
-Install Puppeteer 🤖
+## Install Puppeteer 🤖
 ```shell
 npm install puppeteer
 ```
@@ -12,7 +12,7 @@ This will also download Chromium 🌐. This is to avoid manual configuration of 
 
 Note: Puppeteer only works with Chromium-based browsers (Brave, Chrome, etc.) 🤖
 
-How to Use 🤓
+## How to Use 🤓
 Make a list of your reference papers based on your order 📝 and save it as a text file (.txt) 📄
 Rename values of input_path and output_path variables based on your text file name and desired output name 🔄
 Run bib.js 🏃‍♂️
